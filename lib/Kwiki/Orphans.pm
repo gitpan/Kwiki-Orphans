@@ -5,7 +5,7 @@ use mixin 'Kwiki::Installer';
 const class_id       => 'orphans';
 const class_title    => 'Orphans';
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 sub register {
     my $registry = shift;
